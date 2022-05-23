@@ -1,6 +1,6 @@
 # Criando um clone do netflix com react
 
-![Alt Text](https://github.com/almcarvalho/jogo-da-memoria-dio/blob/master/demo/demo.gif)
+![Alt Text](https://github.com/almcarvalho/netflixclone/blob/main/public/demo/demo.gif)
 
 ## Referências
 
