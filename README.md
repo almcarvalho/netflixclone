@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Criando um clone do netflix com react
 
-Criando um clone do netflix com react
+![Alt Text](https://github.com/almcarvalho/jogo-da-memoria-dio/blob/master/demo/demo.gif)
 
 ## Referências
 
@@ -11,10 +11,7 @@ Baseado na aula ao vivo do Bonieky Lacerda
 <a href="https://aquamarine-kitten-beaa02.netlify.app/">Live Demo</a>
 
 
-#Principais modificações que eu fiz no projeto:
 
-
-#MINHAS CONTRIBUIÇÕES
 Melhorias que eu (Lucas Carvalho) fiz nesse projeto
 
 ##SEGURANÇA
@@ -23,4 +20,7 @@ poder usar em ambientes de testes/produção
 Usando enviroment variables
 npm install dotenv --save
 VARIÁVEIS TEM QUE COMEÇAR COM REACT_APP_
+
+##ORGANIZAÇÃO
+Coloquei nomes de classes css mais curtos.
 
