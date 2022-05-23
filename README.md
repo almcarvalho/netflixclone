@@ -7,9 +7,8 @@ Criando um clone do netflix com react
 Baseado na aula ao vivo do Bonieky Lacerda
 
 
-## Live Demo
-Live Demo em:
-wwww.
+## Live Demo 
+<a href="https://aquamarine-kitten-beaa02.netlify.app/">Live Demo</a>
 
 
 #Principais modificações que eu fiz no projeto:
