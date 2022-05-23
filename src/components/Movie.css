@@ -1,0 +1,29 @@
+.moviePrincipal {
+    margin-bottom: 30px;
+}
+
+.moviePrincipal h2 {
+    margin: 0px 0px 0px 30px;
+}
+
+.movie--listarea {
+    overflow-x: hidden;
+    padding-left: 30px;
+}
+
+.movie--item {
+    display: flex;
+    width: 150px;
+    cursor: pointer;
+}
+
+.movie--item img {
+    width: 100%;
+    transform: scale(0.9);
+    transition: all ease 0.2s;
+}
+
+.movie--item img:hover {
+    width: 100%;
+    transform: scale(1);
+}
